@@ -27,6 +27,7 @@ void binary_search(int N, int key) {
     return ;
 }
 
+
 int main() {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
